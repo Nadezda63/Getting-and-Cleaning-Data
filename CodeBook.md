@@ -1,10 +1,4 @@
----
-title: "CodeBook"
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
+
 This is a code book that describes the variables, the data, and any transformations or work to clean up the data used within the project.
 
 ## Data Source
