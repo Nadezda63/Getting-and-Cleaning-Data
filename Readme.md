@@ -1,9 +1,4 @@
----
-title: "ReadMe.md"
-output:
-  html_document: default
-  word_document: default
----
+
 
 ### Project Scope
 
